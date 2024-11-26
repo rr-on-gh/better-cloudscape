@@ -18,7 +18,7 @@
             border-radius: 3px !important;
         }
 
-        /* Target the buttons, but not the orange action buttons */
+        /* Target the buttons, but not the orange action action buttons */
         .awsui_button_vjswe_1dg71_153.awsui_variant-normal_vjswe_1dg71_204:not(#\\9 ) {
             border-color: #545b64 !important;
             color: #545b64 !important;
